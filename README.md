@@ -28,9 +28,10 @@ The tasks in this assignment include:
 
 ## Business Recommendations
 Based on the insights derived from the data, the following recommendations are made:
-- **Promote Popular Dishes**: Focus marketing efforts on the most popular dishes to increase customer engagement and sales.
-- **Target Young Adults with Promotions**: Offer promotions targeting younger customers who have a higher average spend.
-- **Enhance Breakfast and Dinner Options**: Since these meals have the highest average order amounts, focus on exclusive offers or meal bundles for these times.
+- Business Recommendations:
+- Focus on promoting the most popular dishes to increase revenue.
+- Create targeted marketing campaigns for age groups with higher average order amounts.
+- Analyze the impact of favorite meals on user spending and create personalized meal offers.
 
 
 ## Requirements
