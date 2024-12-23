@@ -1,4 +1,4 @@
-# UplianceAI_Assignment
+# Upliance.AI_Assignment
 
 # User Behavior, Cooking Preferences, and Order Trends Analysis
 
